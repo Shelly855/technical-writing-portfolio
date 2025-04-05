@@ -1,3 +1,5 @@
+> *Authored by @Shelly855 as part of the final documentation for the Animal Custom Vision project.*
+
 # Animal Custom Vision
 
 - A web application for analysing animal behaviours using Azure Custom Vision.
