@@ -1,3 +1,5 @@
+> *Authored by @Shelly855 as part of the final documentation for the Digital Preoperative Assessment Pathway and Clinical Decision Support System project.*
+
 # Digital Preoperative Assessment Pathway and Clinical Decision Support System
 **Project Duration:** Mar 4th - Apr 23rd 2024
 
