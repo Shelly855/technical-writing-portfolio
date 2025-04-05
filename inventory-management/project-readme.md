@@ -1,3 +1,5 @@
+> *Authored by @Shelly855 as part of the final documentation for the Candy Atlas Inventory Management System project.*
+
 # Candy Atlas Inventory Management System
 
 An inventory management web application for a candy company built using Laravel and Bootstrap.
